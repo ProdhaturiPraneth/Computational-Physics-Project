@@ -305,4 +305,4 @@ optical-waveguide-eigenmodes/
 
 ## Acknowledgement
 
-This project was carried out as part of a Computational Physics study, applying numerical methods to the problem of optical wave propagation and mode confinement.
+This project was carried out as part of a Computational Physics study, applying numerical methods to the problem of optical wave propagation and mode confinement.It was done by Praneth,Yogita and Tanush.
