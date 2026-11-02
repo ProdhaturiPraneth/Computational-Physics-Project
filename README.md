@@ -1,4 +1,4 @@
-# Numerical Analysis of Optical Waveguide Eigenmodes
+# Numerical Analysis of Optical Waveguide Eigenmode
 
 A Computational Physics project on modelling optical waveguides and studying their guided modes using numerical methods.
 
